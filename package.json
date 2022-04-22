@@ -1,0 +1,16 @@
+{
+  "name": "pnplearn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@yarnpkg/sdks": "^3.0.0-rc.2",
+    "typescript": "^4.6.3"
+  }
+}
